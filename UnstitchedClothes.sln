@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnstitchedClothes", "UnstitchedClothes\UnstitchedClothes.csproj", "{ACB6FA43-1B2D-4458-9EE2-A8F2FFA29807}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnstitchedClothes.Entities", "UnstitchedClothes.Entities\UnstitchedClothes.Entities.csproj", "{F1991156-462B-4754-84F3-E308DDB0C318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnstitchedClothes.Database", "UnstitchedClothes.Database\UnstitchedClothes.Database.csproj", "{09639B81-2534-4BA7-BCE2-74D155733329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnstitchedClothes.Services", "UnstitchedClothes.Services\UnstitchedClothes.Services.csproj", "{DCFEC6E0-0D90-4F0F-BB5A-BF16E461673A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{ACB6FA43-1B2D-4458-9EE2-A8F2FFA29807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB6FA43-1B2D-4458-9EE2-A8F2FFA29807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB6FA43-1B2D-4458-9EE2-A8F2FFA29807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1991156-462B-4754-84F3-E308DDB0C318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1991156-462B-4754-84F3-E308DDB0C318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1991156-462B-4754-84F3-E308DDB0C318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1991156-462B-4754-84F3-E308DDB0C318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09639B81-2534-4BA7-BCE2-74D155733329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09639B81-2534-4BA7-BCE2-74D155733329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09639B81-2534-4BA7-BCE2-74D155733329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09639B81-2534-4BA7-BCE2-74D155733329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFEC6E0-0D90-4F0F-BB5A-BF16E461673A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFEC6E0-0D90-4F0F-BB5A-BF16E461673A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFEC6E0-0D90-4F0F-BB5A-BF16E461673A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFEC6E0-0D90-4F0F-BB5A-BF16E461673A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
